@@ -1,6 +1,6 @@
 My automatic hyprland rice
 
-![screenshot 1](assets/rwby-screenshot.png)
+![screenshot 1](preview/rwby-screenshot.png)
 
 # Features
 - Theme colors automatically adjust to whatever wallpaper you set
