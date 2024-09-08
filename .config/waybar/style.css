@@ -1,4 +1,3 @@
-@import "colors.css";
 @import "/home/thomas/.cache/wal/colors-waybar.css";
 
 * {
@@ -91,13 +90,6 @@ window#waybar.chromium {
     animation: ws_normal 20s ease-in-out 1;
 }
 
-/* #workspaces button:hover {
-    background: @color8;
-    box-shadow: none;
-    animation: ws_hover 20s ease-in-out 1;
-    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-} */
-
 #clock,
 #battery,
 #cpu,
@@ -120,7 +112,7 @@ window#waybar.chromium {
 #mpd,
 #workspaces button.active {
     color: @foreground;
-    background: @color6;
+    background: @color2;
     animation: ws_active 20s ease-in-out 1;
     transition: all 0.4s cubic-bezier(.55,-0.68,.48,1.682);
 }
