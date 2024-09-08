@@ -41,17 +41,18 @@ systemctl --user enable --now hyprshade.timer
 edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you would like to use and press `Super + R` to apply it.
 
 # Keyboard Shortcuts
-| hotkey                 | action |
-| -----------------------| ------ |
-| `Super`                | open/close application launcher |
-| `Super + V`            | open/close clipboard manager |
-| `Super + R`            | refresh wallpaper |
-| `Super + E`            | open file manager (Dolphin) |
-| `Super + B`            | open web browser |
-| `Alt + F4`             | close currently focused window |
-| `Alt + M`              | exit Hyprland |
-| `Super + J`            | toggle between horizontal/vertical window split |
-| `Ctrl + Super + left`  | go one workspace to the left |
-| `Ctrl + Super + right` | go one workspace to the right |
-| `Super + 1-9`          | go to specific workspace |
-| `Shift + Super + 1-9`  | move window to specific workspace |
+| hotkey                    | action |
+| ------------------------- | ------ |
+| `Super`                   | open/close application launcher |
+| `Super + V`               | open/close clipboard manager |
+| `Super + R`               | refresh wallpaper |
+| `Super + E`               | open file manager (Dolphin) |
+| `Super + B`               | open web browser |
+| `Alt + F4`                | close currently focused window |
+| `Alt + M`                 | exit Hyprland |
+| `Super + J`               | toggle between horizontal/vertical window split |
+| `Ctrl + Super + left`     | go one workspace to the left |
+| `Ctrl + Super + right`    | go one workspace to the right |
+| `Super + 1-9`             | go to specific workspace |
+| `Shift + Super + 1-9`     | move window to specific workspace |
+| `Super + G`               | Toggle group |
