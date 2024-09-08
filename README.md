@@ -2,9 +2,20 @@ My hyprland rice
 
 # Prerequisites
 On Arch linux:
-```
-pacman -S paru
-paru -S hyprland waybar pavucontrol alacritty archlinux-xdg-menu polkit-kde-agent swayosd-git pamac wofi hyprshade pywal-16-colors
+```bash
+pacman -S paru          # AUR helper
+paru -S hyprland \      # window manager
+waybar \                # application bar
+pavucontrol \           # sound api for waybar 
+alacritty \             # terminal
+archlinux-xdg-menu \    # desktop portal
+polkit-kde-agent \       
+swayosd-git \           # volume notifications
+pamac \                 # GUI package manager (press Super+A to open) 
+wofi \                  # application launcher
+hyprshade \             # night light 
+pywal-16-colors \       # generate theme from wallpaper colors
+cliphist \              # clipboard manager
 ```
 
 # Installing
