@@ -8,14 +8,14 @@ paru -S hyprland \      # window manager
 waybar \                # application bar
 pavucontrol \           # sound api for waybar 
 alacritty \             # terminal
-archlinux-xdg-menu \    # desktop portal
 polkit-kde-agent \       
 swayosd-git \           # volume notifications
 pamac \                 # GUI package manager (press Super+A to open) 
 wofi \                  # application launcher
 hyprshade \             # night light 
 pywal-16-colors \       # generate theme from wallpaper colors
-cliphist \              # clipboard manager
+archlinux-xdg-menu \    # to get "open with" in Dolphin to work
+cliphist                # clipboard manager
 ```
 
 # Installing
