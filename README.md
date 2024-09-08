@@ -62,3 +62,7 @@ edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you w
 | `Shift + Super + S`           | open scratchpad 2 |
 | `Ctrl + Super + S`            | open scratchpad 3 |
 | `Ctrl + Shift + Super + S`    | open scratchpad 4 |
+
+
+# Honorable Mentions
+- [pywal-16](https://github.com/eylles/pywal16), which makes the wallpaper-adjusted theming possible
