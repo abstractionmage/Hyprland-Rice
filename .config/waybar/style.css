@@ -90,6 +90,7 @@ button:hover {
 #scratchpad,
 #power-profiles-daemon,
 #keyboard-state,
+#language,
 #mpd {
     padding: 0 10px;
     color: @foreground;
@@ -222,8 +223,8 @@ label:focus {
 }
 
 #idle_inhibitor.activated {
-    background-color: #ecf0f1;
-    color: #2d3436;
+    background-color: @background;
+    color: @foreground;
 }
 
 /* #mpd {
