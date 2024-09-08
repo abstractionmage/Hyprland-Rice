@@ -1,6 +1,14 @@
-My hyprland rice
+My automatic hyprland rice
 
-# Prerequisites
+![screenshot 1](assets/rwby-screenshot.png)
+
+# Features
+- Theme colors automatically adjust to whatever wallpaper you set
+- Scheduled night light shader
+- Clipboard manager
+
+# Installation
+## Prerequisites
 On Arch linux:
 ```bash
 pacman -S paru          # AUR helper
@@ -18,11 +26,11 @@ archlinux-xdg-menu \    # to get "open with" in Dolphin to work
 cliphist                # clipboard manager
 ```
 
-# Installing
-```
+## Applying this Rice
+```bash
 git clone git@github.com:abstractionmage/dotfiles.git ~/dotfiles
-ln -S ~/dotfiles/.config/* ~/.config
+ln -S ~/dotfiles/.config/* ~/.config    # make sure none of the folders in ~/dotfiles/.config already exist in your ~/.config
 ```
 
-# Set wallpaper
+# Set a Wallpaper
 edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you would like to use. Log out and back in and the terminal, launcher, and status bar themes will have adjusted themselves to the colors in that wallpaper.  
