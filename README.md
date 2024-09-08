@@ -9,13 +9,14 @@ My automatic Hyprland rice
 - Clipboard manager
 
 # Installation
-## Prerequisites
+## Dependencies
 On Arch linux:
 ```bash
 pacman -S paru          # AUR helper
 paru -S hyprland \      # window manager
 waybar \                # application bar
-pavucontrol \           # sound api for waybar 
+ttf-font-awesome        # icon font for waybar
+pavucontrol \           # audio device selector for waybar
 alacritty \             # terminal
 polkit-kde-agent \       
 swayosd-git \           # volume notifications
