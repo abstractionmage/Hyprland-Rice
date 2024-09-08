@@ -91,6 +91,7 @@ button:hover {
 #power-profiles-daemon,
 #keyboard-state,
 #language,
+#custom-power,
 #mpd {
     padding: 0 10px;
     color: @foreground;
