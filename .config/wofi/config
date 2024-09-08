@@ -1,3 +1,5 @@
+width=20%
 mode=drun
 allow_images=true
-width=20%
+no_actions=true
+sort_order=default
