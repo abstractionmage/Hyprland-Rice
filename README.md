@@ -30,6 +30,7 @@ cliphist                # clipboard manager
 ## Applying this Rice
 ```bash
 git clone git@github.com:abstractionmage/dotfiles.git ~/dotfiles
+cd ~/dotfiles
 ln -S ~/dotfiles/.config/* ~/.config
 
 # enable night light
