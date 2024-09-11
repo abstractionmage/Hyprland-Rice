@@ -17,6 +17,7 @@ paru -S hyprland \      # window manager
 waybar \                # application bar
 ttf-font-awesome        # icon font for waybar
 pavucontrol \           # audio device selector for waybar
+wlogout \               # power menu for waybar
 alacritty \             # terminal
 polkit-kde-agent \       
 swayosd-git \           # volume notifications
