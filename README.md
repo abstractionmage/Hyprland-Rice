@@ -19,7 +19,7 @@ ttf-font-awesome        # icon font for waybar
 pavucontrol \           # audio device selector for waybar
 wlogout \               # power menu for waybar
 alacritty \             # terminal
-polkit-kde-agent \       
+polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
 pamac \                 # GUI package manager (press Super+A to open) 
 wofi \                  # application launcher
