@@ -58,6 +58,8 @@ edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you w
 | `Ctrl + Super + right`        | go one workspace to the right |
 | `Super + 1-9`                 | go to specific workspace |
 | `Shift + Super + 1-9`         | move window to specific workspace |
+| `Super + H`                   | swap adjacent windows |
+| `Super + J`                   | change tiling of two adjacent windows |
 | `Super + G`                   | toggle group |
 | `Super + S`                   | open scratchpad 1 |
 | `Shift + Super + S`           | open scratchpad 2 |
