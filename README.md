@@ -52,7 +52,7 @@ edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you w
 | `Super + E`                   | open file manager (Dolphin) |
 | `Super + B`                   | open web browser |
 | `Alt + F4`                    | close currently focused window |
-| `Alt + M`                     | exit Hyprland |
+| `Alt + L`                     | exit Hyprland |
 | `Super + J`                   | toggle between horizontal/vertical window split |
 | `Ctrl + Super + left`         | go one workspace to the left |
 | `Ctrl + Super + right`        | go one workspace to the right |
