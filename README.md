@@ -27,7 +27,8 @@ wofi \                  # application launcher
 hyprshade \             # night light 
 pywal-16-colors \       # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
-cliphist                # clipboard manager
+cliphist \              # clipboard manager
+rose-pine-hyprcursor    # cursor theme
 ```
 
 ## Applying this Rice
