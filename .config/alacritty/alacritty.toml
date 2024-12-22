@@ -1,9 +1,13 @@
-import = [
-"~/.config/alacritty/keybindings.toml"
-]
 
-[shell]
+[terminal.shell]
 program = "/usr/bin/fish"
 
 [window]
 opacity = 0.84
+
+[general]
+import = [
+"~/.config/alacritty/keybindings.toml"
+]
+
+[terminal]
