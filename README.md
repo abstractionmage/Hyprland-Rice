@@ -25,7 +25,7 @@ swayosd-git \           # volume notifications
 pamac \                 # GUI package manager (press Super+A to open) 
 wofi \                  # application launcher
 hyprshade \             # night light 
-pywal-16-colors \       # generate theme from wallpaper colors
+python-pywal \          # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
 cliphist \              # clipboard manager
 rose-pine-hyprcursor    # cursor theme
