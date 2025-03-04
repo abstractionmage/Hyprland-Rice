@@ -59,10 +59,12 @@ edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you w
 | `Super + L`                   | lock screen |
 | `Super + M`                   | exit Hyprland |
 | `Super + J`                   | toggle between horizontal/vertical window split |
-| `Ctrl + Super + left`         | go one workspace to the left |
-| `Ctrl + Super + right`        | go one workspace to the right |
+| `Super + Z`                   | go one workspace to the left |
+| `Super + X`                   | go one workspace to the right |
 | `Super + 1-9`                 | go to specific workspace |
-| `Shift + Super + 1-9`         | move window to specific workspace |
+| `Super + Shift + Z`           | move active window one workspace to the left |
+| `Super + Shift + X`           | move active window one workspace to the right |
+| `Shift + Super + 1-9`         | move active window to specific workspace |
 | `Super + H`                   | swap adjacent windows |
 | `Super + J`                   | change tiling of two adjacent windows |
 | `Super + G`                   | toggle group |
