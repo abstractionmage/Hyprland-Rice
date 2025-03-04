@@ -21,6 +21,7 @@ wlogout \               # power menu for waybar
 hyprlock \              # lock screen
 alacritty \             # terminal
 nemo \                  # file manager
+flameshot-git \         # screenshot tool
 polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
 pamac \                 # GUI package manager (press Super+A to open) 
