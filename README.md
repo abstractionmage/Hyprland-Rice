@@ -12,24 +12,31 @@ My automatic Hyprland rice
 ## Dependencies
 On Arch linux:
 ```bash
-pacman -S paru          # AUR helper
+# AUR helper
+pacman -S paru          
+
+# default applications
+zen-browser-bin \       # web browser
+nemo \                  # file manager
+alacritty \             # terminal
+pamac \                 # GUI package manager (press Super+A to open) 
+flameshot-git \         # screenshot tool
+cliphist \              # clipboard manager
+spotify \               # music client
+wofi \                  # application launcher
+
+# hyprland and its components
 paru -S hyprland \      # window manager
 waybar \                # application bar
 ttf-font-awesome        # icon font for waybar
 pavucontrol \           # audio device selector for waybar
 wlogout \               # power menu for waybar
 hyprlock \              # lock screen
-alacritty \             # terminal
-nemo \                  # file manager
-flameshot-git \         # screenshot tool
 polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
-pamac \                 # GUI package manager (press Super+A to open) 
-wofi \                  # application launcher
 hyprshade \             # night light 
 python-pywal \          # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
-cliphist \              # clipboard manager
 rose-pine-hyprcursor    # cursor theme
 ```
 
