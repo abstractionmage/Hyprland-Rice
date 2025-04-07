@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Copy Location
+Comment=Copy the full path of the selected item to the clipboard (Wayland only)
+Exec=wl-copy %F
+Selection=Any
+Extensions=any;
+Icon-Name=edit-copy
+Dependencies=wl-copy
