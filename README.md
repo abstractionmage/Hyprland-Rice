@@ -14,6 +14,7 @@ On Arch linux:
 ```bash
 # AUR helper
 pacman -S paru          
+paru -S \
 
 # default applications
 zen-browser-bin \       # web browser
