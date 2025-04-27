@@ -27,7 +27,7 @@ spotify \               # music client
 wofi \                  # application launcher
 
 # hyprland and its components
-paru -S hyprland \      # window manager
+hyprland \      # window manager
 waybar \                # application bar
 ttf-font-awesome        # icon font for waybar
 pavucontrol \           # audio device selector for waybar
@@ -35,7 +35,7 @@ wlogout \               # power menu for waybar
 hyprlock \              # lock screen
 polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
-hyprshade \             # night light 
+hyprshade-git \         # night light 
 python-pywal \          # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
 rose-pine-hyprcursor    # cursor theme
