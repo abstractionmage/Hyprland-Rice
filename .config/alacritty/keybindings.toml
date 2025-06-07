@@ -12,3 +12,8 @@ mods = "Control"
 chars = "\u0003"
 key = "C"
 mods = "Control|Shift"
+
+[[keyboard.bindings]]
+chars = "\u000c"
+key = "C"
+mods = "Alt"
