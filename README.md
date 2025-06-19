@@ -25,6 +25,7 @@ flameshot-git \         # screenshot tool
 cliphist \              # clipboard manager
 spotify \               # music client
 wofi \                  # application launcher
+swengine \				# live wallpaper browser and installer
 
 # hyprland and its components
 hyprland \      # window manager
@@ -56,7 +57,11 @@ systemctl --user enable --now hyprshade.timer
 ```
 
 # Set a Wallpaper
-edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you would like to use and press `Super + R` to apply it.
+## using swengine
+[Swengine](https://github.com/eugenenoble2005/swengine) is a GUI application for browsing, downloading and applying animated wallpapers. Just apply a wallper in swengine and everything else is handled under the hood.
+
+## by hand
+If you have downloaded a picture or a gif you would like to use as your wallpaper, edit `hypr/wallpaper.conf`, set `$wallpaper` to a path to the wallpaper you would like to use and press `Super + R` to apply it.
 
 # Keyboard Shortcuts
 | hotkey                        | action |
