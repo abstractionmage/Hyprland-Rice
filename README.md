@@ -83,6 +83,7 @@ edit `hypr/wallpaper.conf` and set `$wallpaper` to a path to the wallpaper you w
 | `Shift + Super + S`           | open scratchpad 2 |
 | `Ctrl + Super + S`            | open scratchpad 3 |
 | `Ctrl + Shift + Super + S`    | open scratchpad 4 |
+| `Super + Print `				| take a screenshot |
 
 
 # Honorable Mentions
