@@ -85,9 +85,9 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + J`                   | change tiling of two adjacent windows |
 | `Super + G`                   | toggle group |
 | `Super + S`                   | open scratchpad 1 |
-| `Shift + Super + S`           | open scratchpad 2 |
-| `Ctrl + Super + S`            | open scratchpad 3 |
-| `Ctrl + Shift + Super + S`    | open scratchpad 4 |
+| `Shift + Super + S`           | move active window to scratchpad 1 |
+| `Ctrl + Super + S`            | open scratchpad 2 |
+| `Ctrl + Shift + Super + S`    | move active window to scratchpad 2 |
 | `Super + Print `				| take a screenshot |
 
 
