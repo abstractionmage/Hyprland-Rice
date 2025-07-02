@@ -18,7 +18,7 @@ paru -S \
 
 # default applications
 zen-browser-bin \       # web browser
-nemo \                  # file manager
+dolphin \               # file manager
 alacritty \             # terminal
 pamac \                 # GUI package manager (press Super+A to open) 
 flameshot-git \         # screenshot tool
