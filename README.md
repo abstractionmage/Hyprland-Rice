@@ -28,12 +28,12 @@ wofi \                  # application launcher
 swengine \				# live wallpaper browser and installer
 
 # hyprland and its components
-hyprland \      # window manager
+hyprland \      		# window manager
 waybar \                # application bar
-mpvpaper \				# for displaying video wallpapers
 ttf-font-awesome        # icon font for waybar
 pavucontrol \           # audio device selector for waybar
 wlogout \               # power menu for waybar
+mpvpaper \				# for displaying video wallpapers
 hyprlock \              # lock screen
 polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
