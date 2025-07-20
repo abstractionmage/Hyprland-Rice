@@ -24,7 +24,7 @@ pamac \                 # GUI package manager (press Super+A to open)
 flameshot-git \         # screenshot tool
 cliphist \              # clipboard manager
 spotify \               # music client
-wofi \                  # application launcher
+rofi-wayland \                  # application launcher
 swengine \				# live wallpaper browser and installer
 
 # hyprland and its components
