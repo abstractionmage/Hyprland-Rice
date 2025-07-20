@@ -1,5 +1,6 @@
 configuration {
 	display-drun: "Applications";
+	show-icons: true;
 }
 
 element {
@@ -8,5 +9,5 @@ element {
 	spacing: 8px;
 }
 
-@import "~/.cache/wal/colors-rofi-dark.rasi"
-entry {blink:false;}
+@theme "~/.config/rofi/theme.rasi"
+

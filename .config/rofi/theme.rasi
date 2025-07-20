@@ -1,0 +1,46 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+entry {blink:false;}	/* disables cursor blinking (very important) */
+
+* {
+	background-color: @background;
+}
+
+window {
+	width: 30%;
+	border-radius: 30px;
+	border: 3px;
+	border-color: @selected-normal-background;
+}
+
+inputbar {
+	padding: 0px 0px 12px 0px;
+}
+
+entry {
+  	hide-cursor-on-empty: true;
+	text-color: @foreground;
+}
+
+element-text {
+	text-color: @foreground;
+	padding: 0px 0px 0px 8px;	// left padding to leave some space to the icons
+}
+
+element-text {
+    vertical-align: 0.5;
+}
+
+element {
+    padding: 6px;
+	border-radius: 10px;
+}
+
+element selected, element-text selected,element-icon selected {
+    background-color: @selected-normal-background;
+    text-color: @selected-normal-foreground;
+}
+
+
+element-icon {
+    size: 1em;
+}
