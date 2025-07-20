@@ -71,7 +71,7 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + B`                   | open web browser |
 | `Alt + F4`                    | close currently focused window |
 | `Super + L`                   | lock screen |
-| `Super + M`                   | exit Hyprland |
+| `Super + Shift + Q`           | quit Hyprland |
 | `Super + J`                   | toggle between horizontal/vertical window split |
 | `Super + Z`                   | go one workspace to the left |
 | `Super + X`                   | go one workspace to the right |
