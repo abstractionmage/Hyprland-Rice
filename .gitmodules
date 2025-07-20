@@ -1,0 +1,3 @@
+[submodule "/home/thomas/dotfiles/.config/rofi"]
+	path = /home/thomas/dotfiles/.config/rofi
+	url = git@github.com:abstractionmage/rofi-theme.git
