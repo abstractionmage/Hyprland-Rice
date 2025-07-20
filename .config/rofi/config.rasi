@@ -1,2 +1,8 @@
+element {
+  orientation: horizontal;
+  children: [ element-icon, element-text ];
+  spacing: 8px;
+}
+
 @import "~/.cache/wal/colors-rofi-dark.rasi"
 entry {blink:false;}
