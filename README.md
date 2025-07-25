@@ -38,7 +38,7 @@ hyprlock \              # lock screen
 polkit-kde-agent \      # authentication agent
 swayosd-git \           # volume notifications
 hyprnotify \			# desktop notification daemon
-hyprshade-git \         # night light 
+hyprsunset \         	# night light 
 python-pywal \          # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
 rose-pine-hyprcursor    # cursor theme
