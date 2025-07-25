@@ -68,7 +68,6 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + V`                   | open/close clipboard manager |
 | `Super + R`                   | refresh wallpaper |
 | `Super + E`                   | open file manager |
-| `Super + B`                   | open web browser |
 | `Alt + F4`                    | close currently focused window |
 | `Super + L`                   | lock screen |
 | `Super + Shift + Q`           | quit Hyprland |
@@ -82,10 +81,12 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + H`                   | swap adjacent windows |
 | `Super + J`                   | change tiling of two adjacent windows |
 | `Super + G`                   | toggle group |
-| `Super + S`                   | open scratchpad 1 |
-| `Shift + Super + S`           | move active window to scratchpad 1 |
-| `Ctrl + Super + S`            | open scratchpad 2 |
-| `Ctrl + Shift + Super + S`    | move active window to scratchpad 2 |
+| `Super + S`                   | open terminal scratchpad |
+| `Shift + Super + S`           | move active window to terminal scratchpad |
+| `Ctrl + Super + S`            | open music scratchpad |
+| `Ctrl + Shift + Super + S`    | move active window to music scratchpad |
+| `Super + B`            		| open web browser scratchpad |
+| `Shift + Super + B`    		| move active window to web browser scratchpad |
 | `Super + Print `				| take a screenshot |
 
 
