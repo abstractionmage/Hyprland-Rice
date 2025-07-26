@@ -50,33 +50,7 @@ window#waybar.chromium {
 #language,
 #custom-power,
 #mpd,
-#workspaces button:hover {
-    background: @color8;
-    box-shadow: none;
-    animation: ws_hover 20s ease-in-out 1;
-    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
-}
 
-#clock,
-#battery,
-#cpu,
-#memory,
-#disk,
-#temperature,
-#backlight,
-#network,
-#pulseaudio,
-#wireplumber,
-#custom-media,
-#tray,
-#mode,
-#idle_inhibitor,
-#scratchpad,
-#power-profiles-daemon,
-#keyboard-state,
-#language,
-#custom-power,
-#mpd,
 #workspaces button {
     background-color: @background;
     color: @foreground;
@@ -90,26 +64,6 @@ window#waybar.chromium {
     animation: ws_normal 20s ease-in-out 1;
 }
 
-#clock,
-#battery,
-#cpu,
-#memory,
-#disk,
-#temperature,
-#backlight,
-#network,
-#pulseaudio,
-#wireplumber,
-#custom-media,
-#tray,
-#mode,
-#idle_inhibitor,
-#scratchpad,
-#power-profiles-daemon,
-#keyboard-state,
-#language,
-#custom-power,
-#mpd,
 #workspaces button.active {
     color: @foreground;
     background: @color1;
@@ -117,28 +71,19 @@ window#waybar.chromium {
     transition: all 0.4s cubic-bezier(.55,-0.68,.48,1.682);
 }
 
-#clock,
-#battery,
-#cpu,
-#memory,
-#disk,
-#temperature,
-#backlight,
-#network,
-#pulseaudio,
-#wireplumber,
-#custom-media,
-#tray,
-#mode,
-#idle_inhibitor,
-#scratchpad,
-#power-profiles-daemon,
-#keyboard-state,
-#language,
-#custom-power,
-#mpd,
+#workspaces button:hover {
+    background: @color8;
+    box-shadow: none;
+    animation: ws_hover 20s ease-in-out 1;
+    transition: all 0.3s cubic-bezier(.55,-0.68,.48,1.682);
+}
+
 #workspaces button.focused {
     background-color: @color6;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
 }
 
 #clock,
@@ -161,9 +106,66 @@ window#waybar.chromium {
 #language,
 #custom-power,
 #mpd,
-#workspaces button.urgent {
-    background-color: #eb4d4b;
-}
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#wireplumber,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#power-profiles-daemon,
+#keyboard-state,
+#language,
+#custom-power,
+#mpd,
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#wireplumber,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#power-profiles-daemon,
+#keyboard-state,
+#language,
+#custom-power,
+#mpd,
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#wireplumber,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#power-profiles-daemon,
+#keyboard-state,
+#language,
+#custom-power,
+#mpd,
 
 #mode {
     background-color: #64727D;
