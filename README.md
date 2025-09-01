@@ -13,7 +13,7 @@ My automatic Hyprland rice
 On Arch linux:
 ```bash
 # AUR helper
-pacman -S paru          
+pacman -S paru bat		# bat is required for syntax highlighting in paru
 paru -S \
 
 # default applications
