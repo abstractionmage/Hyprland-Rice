@@ -65,6 +65,7 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | hotkey                        | action |
 | ----------------------------- | ------ |
 | `Super`                       | open/close application launcher |
+| `Super + Return`				| open a terminal |
 | `Super + V`                   | open/close clipboard manager |
 | `Super + R`                   | refresh wallpaper |
 | `Super + E`                   | open file manager |
@@ -81,10 +82,10 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + H`                   | swap adjacent windows |
 | `Super + J`                   | change tiling of two adjacent windows |
 | `Super + G`                   | toggle group |
-| `Super + S`                   | open terminal scratchpad |
-| `Shift + Super + S`           | move active window to terminal scratchpad |
-| `Ctrl + Super + S`            | open music scratchpad |
-| `Ctrl + Shift + Super + S`    | move active window to music scratchpad |
+| `Super + T`                   | open terminal scratchpad |
+| `Shift + Super +T`			| move active window to terminal scratchpad |
+| `Super + M`            		| open music scratchpad |
+| `Shift + Super + M`    		| move active window to music scratchpad |
 | `Super + B`            		| open web browser scratchpad |
 | `Shift + Super + B`    		| move active window to web browser scratchpad |
 | `Super + Print `				| take a screenshot |
