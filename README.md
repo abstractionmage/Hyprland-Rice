@@ -36,7 +36,7 @@ wlogout \               # power menu for waybar
 mpvpaper \				# for displaying video wallpapers
 hyprlock \              # lock screen
 polkit-kde-agent \      # authentication agent
-swayosd-git \           # volume notifications
+swayosd \           # volume notifications
 hyprnotify \			# desktop notification daemon
 hyprsunset \         	# night light 
 python-pywal \          # generate theme from wallpaper colors
