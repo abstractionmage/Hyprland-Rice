@@ -1,5 +1,5 @@
 [submodule "/home/thomas/dotfiles/.config/rofi"]
-	path = /home/thomas/dotfiles/.config/rofi
+	path = .config/rofi
 	url = git@github.com:abstractionmage/rofi-theme.git
 [submodule ".config/kitty"]
 	path = .config/kitty
