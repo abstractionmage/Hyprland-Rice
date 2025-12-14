@@ -51,7 +51,8 @@ sudo systemctl enable --now swayosd-libinput-backend.service
 ```bash
 git clone git@github.com:abstractionmage/dotfiles.git ~/dotfiles
 cd ~/dotfiles
-ln -S ~/dotfiles/.config/* ~/.config
+ln -s ~/dotfiles/config/* ~/.config/
+ln -s ~/dotfiles/local/share/* ~/.local/share/
 
 # enable night light
 hyprshade install
