@@ -52,10 +52,6 @@ sudo systemctl enable --now swayosd-libinput-backend.service
 git clone git@github.com:abstractionmage/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ln -s ~/dotfiles/config/* ~/.config/
-
-# enable night light
-hyprshade install
-systemctl --user enable --now hyprshade.timer
 ```
 
 # Set a Wallpaper
