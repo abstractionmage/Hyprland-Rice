@@ -51,6 +51,7 @@ sudo systemctl enable --now swayosd-libinput-backend.service
 ```bash
 git clone git@github.com:abstractionmage/dotfiles.git ~/dotfiles
 ln -s ~/dotfiles/config/* ~/.config/
+ln -s ~/dotfiles/local/share/applications/* ~/.local/share/applications
 ```
 
 # Set a Wallpaper

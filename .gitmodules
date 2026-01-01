@@ -4,3 +4,6 @@
 [submodule ".config/kitty"]
 	path = config/kitty
 	url = git@github.com:abstractionmage/kitty-config.git
+[submodule "local/share/applications"]
+	path = local/share/applications
+	url = git@github.com:abstractionmage/desktop-files.git
