@@ -67,6 +67,7 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + E`                   | open file manager |
 | `Alt + F4`                    | close currently focused window |
 | `Super + L`                   | lock screen |
+| `Super + S`                   | lock screen and suspend system |
 | `Super + Shift + Q`           | quit Hyprland |
 | `Super + J`                   | toggle between horizontal/vertical window split |
 | `Super + Z`                   | go one workspace to the left |
