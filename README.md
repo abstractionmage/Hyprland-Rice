@@ -68,7 +68,7 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + E`                   | open file manager |
 | `Alt + F4`                    | close currently focused window |
 | `Super + L`                   | lock screen |
-| `Super + S`                   | lock screen and suspend system |
+| `Super + Shift + L`           | lock screen and suspend system |
 | `Super + Shift + Q`           | quit Hyprland |
 | `Super + J`                   | toggle between horizontal/vertical window split |
 | `Super + Z`                   | go one workspace to the left |
@@ -82,8 +82,8 @@ If you have downloaded a picture or a gif you would like to use as your wallpape
 | `Super + G`                   | toggle group |
 | `Super + T`                   | open terminal scratchpad |
 | `Shift + Super +T`			| move active window to terminal scratchpad |
-| `Super + M`            		| open music scratchpad |
-| `Shift + Super + M`    		| move active window to music scratchpad |
+| `Super + S`            		| open music scratchpad |
+| `Shift + Super + S`    		| move active window to music scratchpad |
 | `Super + B`            		| open web browser scratchpad |
 | `Shift + Super + B`    		| move active window to web browser scratchpad |
 | `Super + Print `				| take a screenshot |
