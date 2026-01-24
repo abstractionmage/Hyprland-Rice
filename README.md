@@ -42,6 +42,7 @@ hyprsunset \         	# night light
 python-pywal \          # generate theme from wallpaper colors
 archlinux-xdg-menu \    # to get "open with" in Dolphin to work
 rose-pine-hyprcursor    # cursor theme
+app2unit				# workaround to get spotify to react to window rules
 
 # swayosd setup (necessary for volume keybindings and notifications to work)
 sudo systemctl enable --now swayosd-libinput-backend.service
